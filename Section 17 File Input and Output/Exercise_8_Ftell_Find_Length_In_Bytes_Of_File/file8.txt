@@ -1,0 +1,5 @@
+Hello everyone!
+How are you today ?
+The purpose of this file
+is to understand how ftell and fseek functions
+works!

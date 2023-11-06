@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 17 File Input and Output" Database="" Version="10000">
+  <Project Name="Exercise_1_Read_Text_file" Path="Exercise_1_Read_Text_file/Exercise_1_Read_Text_file.project" Active="Yes"/>
+  <Project Name="Exercise_2_Reading_Strings_from_text_file" Path="Exercise_2_Reading_Strings_from_text_file/Exercise_2_Reading_Strings_from_text_file.project" Active="No"/>
+  <Project Name="Exercise_3_Read_And_write_From_Text_File" Path="Exercise_3_Read_And_write_From_Text_File/Exercise_3_Read_And_write_From_Text_File.project" Active="No"/>
+  <Project Name="Exercise_4_Write_ASCII_Values_between_33_And_100" Path="Exercise_4_Write_ASCII_Values_between_33_And_100/Exercise_4_Write_ASCII_Values_between_33_And_100.project" Active="No"/>
+  <Project Name="Exercise_5_Writting_Strings_To_Text_File" Path="Exercise_5_Writting_Strings_To_Text_File/Exercise_5_Writting_Strings_To_Text_File.project" Active="No"/>
+  <Project Name="Exercise_6_Writting_Formatted_Output" Path="Exercise_6_Writting_Formatted_Output/Exercise_6_Writting_Formatted_Output.project" Active="No"/>
+  <Project Name="Exercise_7_UpperCase_To_LowerCase_Read_Write" Path="Exercise_7_UpperCase_To_LowerCase_Read_Write/Exercise_7_UpperCase_To_LowerCase_Read_Write.project" Active="No"/>
+  <Project Name="Exercise_8_Ftell_Find_Length_In_Bytes_Of_File" Path="Exercise_8_Ftell_Find_Length_In_Bytes_Of_File/Exercise_8_Ftell_Find_Length_In_Bytes_Of_File.project" Active="No"/>
+  <Project Name="Exercise_9_fgetpos" Path="Exercise_9_fgetpos/Exercise_9_fgetpos.project" Active="No"/>
+  <Project Name="Exercise_10_Fseek" Path="Exercise_10_Fseek/Exercise_10_Fseek.project" Active="No"/>
+  <Project Name="Exercise_11_Fsetpos_Fgetpos" Path="Exercise_11_Fsetpos_Fgetpos/Exercise_11_Fsetpos_Fgetpos.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Exercise_1_Read_Text_file" ConfigName="Debug"/>
+      <Project Name="Exercise_2_Reading_Strings_from_text_file" ConfigName="Debug"/>
+      <Project Name="Exercise_3_Read_And_write_From_Text_File" ConfigName="Debug"/>
+      <Project Name="Exercise_4_Write_ASCII_Values_between_33_And_100" ConfigName="Debug"/>
+      <Project Name="Exercise_5_Writting_Strings_To_Text_File" ConfigName="Debug"/>
+      <Project Name="Exercise_6_Writting_Formatted_Output" ConfigName="Debug"/>
+      <Project Name="Exercise_7_UpperCase_To_LowerCase_Read_Write" ConfigName="Debug"/>
+      <Project Name="Exercise_8_Ftell_Find_Length_In_Bytes_Of_File" ConfigName="Debug"/>
+      <Project Name="Exercise_9_fgetpos" ConfigName="Debug"/>
+      <Project Name="Exercise_10_Fseek" ConfigName="Debug"/>
+      <Project Name="Exercise_11_Fsetpos_Fgetpos" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Exercise_1_Read_Text_file" ConfigName="Release"/>
+      <Project Name="Exercise_2_Reading_Strings_from_text_file" ConfigName="Release"/>
+      <Project Name="Exercise_3_Read_And_write_From_Text_File" ConfigName="Release"/>
+      <Project Name="Exercise_4_Write_ASCII_Values_between_33_And_100" ConfigName="Release"/>
+      <Project Name="Exercise_5_Writting_Strings_To_Text_File" ConfigName="Release"/>
+      <Project Name="Exercise_6_Writting_Formatted_Output" ConfigName="Release"/>
+      <Project Name="Exercise_7_UpperCase_To_LowerCase_Read_Write" ConfigName="Release"/>
+      <Project Name="Exercise_8_Ftell_Find_Length_In_Bytes_Of_File" ConfigName="Release"/>
+      <Project Name="Exercise_9_fgetpos" ConfigName="Release"/>
+      <Project Name="Exercise_10_Fseek" ConfigName="Release"/>
+      <Project Name="Exercise_11_Fsetpos_Fgetpos" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

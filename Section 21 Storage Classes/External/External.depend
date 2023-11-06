@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688505175 source:c:\users\pat_p\desktop\workspacesc\section 21 storage classes\external\foo.c
+	<stdio.h>
+
+1688505178 source:c:\users\pat_p\desktop\workspacesc\section 21 storage classes\external\main.c
+	<stdio.h>
+	<stdlib.h>
+

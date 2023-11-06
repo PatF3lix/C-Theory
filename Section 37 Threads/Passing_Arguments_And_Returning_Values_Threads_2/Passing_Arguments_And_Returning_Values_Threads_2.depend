@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689840060 source:c:\users\pat_p\desktop\workspacesc\section 37 threads\passing_arguments_and_returning_values_threads_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+	<malloc.h>
+

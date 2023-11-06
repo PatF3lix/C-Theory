@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 14 Pointer Arithmetics" Database="" Version="10000">
+  <Project Name="Pointer_Arithmetics_Sum_All_Elements_Array" Path="Pointer_Arithmetics_Sum_All_Elements_Array/Pointer_Arithmetics_Sum_All_Elements_Array.project" Active="No"/>
+  <Project Name="Pointers_And_Array_Example_1" Path="Pointers_And_Array_Example_1/Pointers_And_Array_Example_1.project" Active="No"/>
+  <Project Name="Pointers_And_Array_Example_2" Path="Pointers_And_Array_Example_2/Pointers_And_Array_Example_2.project" Active="No"/>
+  <Project Name="Copy_String_Pointer_Exercise_3" Path="Copy_String_Pointer_Exercise_3/Copy_String_Pointer_Exercise_3.project" Active="No"/>
+  <Project Name="Counting_Characters_In_String_Pointers_Exercise_4" Path="Counting_Characters_In_String_Pointers_Exercise_4/Counting_Characters_In_String_Pointers_Exercise_4.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Pointer_Arithmetics_Sum_All_Elements_Array" ConfigName="Debug"/>
+      <Project Name="Pointers_And_Array_Example_1" ConfigName="Debug"/>
+      <Project Name="Pointers_And_Array_Example_2" ConfigName="Debug"/>
+      <Project Name="Copy_String_Pointer_Exercise_3" ConfigName="Debug"/>
+      <Project Name="Counting_Characters_In_String_Pointers_Exercise_4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Pointer_Arithmetics_Sum_All_Elements_Array" ConfigName="Release"/>
+      <Project Name="Pointers_And_Array_Example_1" ConfigName="Release"/>
+      <Project Name="Pointers_And_Array_Example_2" ConfigName="Release"/>
+      <Project Name="Copy_String_Pointer_Exercise_3" ConfigName="Release"/>
+      <Project Name="Counting_Characters_In_String_Pointers_Exercise_4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689791621 source:c:\users\pat_p\desktop\workspacesc\section 36 interprocess communication and signals\using_fork()\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<unistd.h>
+

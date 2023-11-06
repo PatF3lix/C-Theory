@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689551634 source:c:\users\pat_p\desktop\workspacesc\section 33 static libraries and shared objects\dynamically_loading_shared_object_challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dlfcn.h>
+

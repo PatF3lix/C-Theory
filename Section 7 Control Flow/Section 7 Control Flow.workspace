@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 7 Control Flow" Database="" Version="10000">
+  <Project Name="If_Statements" Path="If_Statements/If_Statements.project" Active="No"/>
+  <Project Name="If_Else_Exercise" Path="If_Else_Exercise/If_Else_Exercise.project" Active="No"/>
+  <Project Name="SwitchCase_Statement" Path="SwitchCase_Statement/SwitchCase_Statement.project" Active="No"/>
+  <Project Name="ForLoop" Path="ForLoop/ForLoop.project" Active="No"/>
+  <Project Name="Loops_Exercise" Path="Loops_Exercise/Loops_Exercise.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="If_Statements" ConfigName="Debug"/>
+      <Project Name="If_Else_Exercise" ConfigName="Debug"/>
+      <Project Name="SwitchCase_Statement" ConfigName="Debug"/>
+      <Project Name="ForLoop" ConfigName="Debug"/>
+      <Project Name="Loops_Exercise" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="If_Statements" ConfigName="Release"/>
+      <Project Name="If_Else_Exercise" ConfigName="Release"/>
+      <Project Name="SwitchCase_Statement" ConfigName="Release"/>
+      <Project Name="ForLoop" ConfigName="Release"/>
+      <Project Name="Loops_Exercise" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

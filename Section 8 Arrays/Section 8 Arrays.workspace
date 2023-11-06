@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 8 Arrays" Database="" Version="10000">
+  <Project Name="Using_Arrays" Path="Using_Arrays/Using_Arrays.project" Active="No"/>
+  <Project Name="Initializing_Arrays" Path="Initializing_Arrays/Initializing_Arrays.project" Active="No"/>
+  <Project Name="Array_Exercise_Prime_Numbers" Path="Array_Exercise_Prime_Numbers/Array_Exercise_Prime_Numbers.project" Active="No"/>
+  <Project Name="Multidimensional_Exercise" Path="Multidimensional_Exercise/Multidimensional_Exercise.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Using_Arrays" ConfigName="Debug"/>
+      <Project Name="Initializing_Arrays" ConfigName="Debug"/>
+      <Project Name="Array_Exercise_Prime_Numbers" ConfigName="Debug"/>
+      <Project Name="Multidimensional_Exercise" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Using_Arrays" ConfigName="Release"/>
+      <Project Name="Initializing_Arrays" ConfigName="Release"/>
+      <Project Name="Array_Exercise_Prime_Numbers" ConfigName="Release"/>
+      <Project Name="Multidimensional_Exercise" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

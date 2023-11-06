@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689613593 source:c:\users\pat_p\desktop\workspacesc\section 34 useful c libraries\rand_function\main.c
+	<stdio.h>
+	<stdlib.h>
+

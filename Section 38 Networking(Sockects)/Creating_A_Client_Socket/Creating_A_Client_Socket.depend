@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1689939612 source:c:\users\pat_p\desktop\workspacesc\section 38 networking(sockects)\creating_a_client_socket\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/socket.h>
+	<unistd.h>
+	<arpa/inet.h>
+

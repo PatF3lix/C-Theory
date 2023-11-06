@@ -1,0 +1,2 @@
+This is reading a string of 60 bytes from Exercise_2_Reading_Strings_from_text_file/file3.txt
+And outputing it to the screen!

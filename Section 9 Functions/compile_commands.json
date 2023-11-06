@@ -1,0 +1,9 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\TicTacToe_Game_Exercise\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\TicTacToe_Game_Exercise",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\TicTacToe_Game_Exercise\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\TicTacToe_Game_Exercise\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\Basic_Math_Problem_Functions\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\Basic_Math_Problem_Functions",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\Basic_Math_Problem_Functions\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 9 Functions\\Basic_Math_Problem_Functions\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

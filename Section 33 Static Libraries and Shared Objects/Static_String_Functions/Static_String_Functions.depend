@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1689535506 source:c:\users\pat_p\desktop\workspacesc\section 33 static libraries and shared objects\-lstatic_string\main.c
+	<stdio.h>
+	"Static_String_Functions.h"
+
+1689535420 c:\users\pat_p\desktop\workspacesc\section 33 static libraries and shared objects\-lstatic_string\static_string_functions.h
+
+1689535506 source:c:\users\pat_p\desktop\workspacesc\section 33 static libraries and shared objects\static_string_functions\main.c
+	<stdio.h>
+	"Static_String_Functions.h"
+
+1689535420 c:\users\pat_p\desktop\workspacesc\section 33 static libraries and shared objects\static_string_functions\static_string_functions.h
+

@@ -1,0 +1,3 @@
+This file must be added to the root directory of the workspace
+C:\Users\pat_p\Desktop\WorkspacesC\Section 15 Dynamic Memory Allocation
+in order to be located localy! file.txt

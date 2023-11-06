@@ -1,0 +1,1 @@
+../build-Debug/Exercise_10_Fseek/main.c.o: main.c

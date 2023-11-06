@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 5 Variables and data types" Database="" Version="10000">
+  <Project Name="Basic_Data_Types" Path="Basic_Data_Types/Basic_Data_Types.project" Active="No"/>
+  <Project Name="Enums_Char" Path="Enums_Char/Enums_Char.project" Active="No"/>
+  <Project Name="Format_Specifiers" Path="Format_Specifiers/Format_Specifiers.project" Active="No"/>
+  <Project Name="Command_line_arguments" Path="Command_line_arguments/Command_line_arguments.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Basic_Data_Types" ConfigName="Debug"/>
+      <Project Name="Enums_Char" ConfigName="Debug"/>
+      <Project Name="Format_Specifiers" ConfigName="Debug"/>
+      <Project Name="Command_line_arguments" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Basic_Data_Types" ConfigName="Release"/>
+      <Project Name="Enums_Char" ConfigName="Release"/>
+      <Project Name="Format_Specifiers" ConfigName="Release"/>
+      <Project Name="Command_line_arguments" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

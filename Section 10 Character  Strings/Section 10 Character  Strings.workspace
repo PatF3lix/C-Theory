@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 10 Character  Strings" Database="" Version="10000">
+  <Project Name="Understanding_Char_Arrays" Path="Understanding_Char_Arrays/Understanding_Char_Arrays.project" Active="No"/>
+  <Project Name="Common_String_Functions" Path="Common_String_Functions/Common_String_Functions.project" Active="No"/>
+  <Project Name="String_Functions_Exercise" Path="String_Functions_Exercise/String_Functions_Exercise.project" Active="No"/>
+  <Project Name="Tokenizing" Path="Tokenizing/Tokenizing.project" Active="No"/>
+  <Project Name="String_Analyzing_Functions" Path="String_Analyzing_Functions/String_Analyzing_Functions.project" Active="No"/>
+  <Project Name="Converting_String_Functions" Path="Converting_String_Functions/Converting_String_Functions.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Understanding_Char_Arrays" ConfigName="Debug"/>
+      <Project Name="Common_String_Functions" ConfigName="Debug"/>
+      <Project Name="String_Functions_Exercise" ConfigName="Debug"/>
+      <Project Name="Tokenizing" ConfigName="Debug"/>
+      <Project Name="String_Analyzing_Functions" ConfigName="Debug"/>
+      <Project Name="Converting_String_Functions" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Understanding_Char_Arrays" ConfigName="Release"/>
+      <Project Name="Common_String_Functions" ConfigName="Release"/>
+      <Project Name="String_Functions_Exercise" ConfigName="Release"/>
+      <Project Name="Tokenizing" ConfigName="Release"/>
+      <Project Name="String_Analyzing_Functions" ConfigName="Release"/>
+      <Project Name="Converting_String_Functions" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

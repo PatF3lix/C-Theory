@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 16 Structures" Database="" Version="10000">
+  <Project Name="Declaring_A_Structure" Path="Declaring_A_Structure/Declaring_A_Structure.project" Active="Yes"/>
+  <Project Name="Pointer_To_struct_Use_Case_Example" Path="Pointer_To_struct_Use_Case_Example/Pointer_To_struct_Use_Case_Example.project" Active="No"/>
+  <Project Name="Structure_Holding_Pointer_Members" Path="Structure_Holding_Pointer_Members/Structure_Holding_Pointer_Members.project" Active="No"/>
+  <Project Name="Pointer_Item_Exercise" Path="Pointer_Item_Exercise/Pointer_Item_Exercise.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Declaring_A_Structure" ConfigName="Debug"/>
+      <Project Name="Pointer_To_struct_Use_Case_Example" ConfigName="Debug"/>
+      <Project Name="Structure_Holding_Pointer_Members" ConfigName="Debug"/>
+      <Project Name="Pointer_Item_Exercise" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Declaring_A_Structure" ConfigName="Release"/>
+      <Project Name="Pointer_To_struct_Use_Case_Example" ConfigName="Release"/>
+      <Project Name="Structure_Holding_Pointer_Members" ConfigName="Release"/>
+      <Project Name="Pointer_Item_Exercise" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

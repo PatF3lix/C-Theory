@@ -1,0 +1,6 @@
+C:\Users\pat_p\Desktop\WorkspacesC\Section 10 Character  Strings\Converting_String_Functions\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 10 Character  Strings\Understanding_Char_Arrays\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 10 Character  Strings\String_Analyzing_Functions\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 10 Character  Strings\Tokenizing\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 10 Character  Strings\String_Functions_Exercise\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 10 Character  Strings\Common_String_Functions\main.c

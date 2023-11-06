@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 15 Dynamic Memory Allocation" Database="" Version="10000">
+  <Project Name="Malloc_Realloc_Function_Use_example" Path="Malloc_Realloc_Function_Use_example/Malloc_Realloc_Function_Use_example.project" Active="No"/>
+  <Project Name="Char_Buffer_Calloc" Path="Char_Buffer_Calloc/Char_Buffer_Calloc.project" Active="No"/>
+  <Project Name="Fget_function_Use_case" Path="Fget_function_Use_case/Fget_function_Use_case.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Malloc_Realloc_Function_Use_example" ConfigName="Debug"/>
+      <Project Name="Char_Buffer_Calloc" ConfigName="Debug"/>
+      <Project Name="Fget_function_Use_case" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Malloc_Realloc_Function_Use_example" ConfigName="Release"/>
+      <Project Name="Char_Buffer_Calloc" ConfigName="Release"/>
+      <Project Name="Fget_function_Use_case" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

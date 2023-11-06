@@ -1,0 +1,25 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Converting_String_Functions\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Converting_String_Functions",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Converting_String_Functions\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Converting_String_Functions\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Understanding_Char_Arrays\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Understanding_Char_Arrays",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Understanding_Char_Arrays\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Understanding_Char_Arrays\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Analyzing_Functions\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Analyzing_Functions",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Analyzing_Functions\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Analyzing_Functions\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Tokenizing\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Tokenizing",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Tokenizing\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Tokenizing\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Functions_Exercise\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Functions_Exercise",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Functions_Exercise\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\String_Functions_Exercise\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Common_String_Functions\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Common_String_Functions",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Common_String_Functions\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 10 Character  Strings\\Common_String_Functions\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

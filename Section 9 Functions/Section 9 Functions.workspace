@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 9 Functions" Database="" Version="10000">
+  <Project Name="Basic_Math_Problem_Functions" Path="Basic_Math_Problem_Functions/Basic_Math_Problem_Functions.project" Active="No"/>
+  <Project Name="TicTacToe_Game_Exercise" Path="TicTacToe_Game_Exercise/TicTacToe_Game_Exercise.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Basic_Math_Problem_Functions" ConfigName="Debug"/>
+      <Project Name="TicTacToe_Game_Exercise" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Basic_Math_Problem_Functions" ConfigName="Release"/>
+      <Project Name="TicTacToe_Game_Exercise" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

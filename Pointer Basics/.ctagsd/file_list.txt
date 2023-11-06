@@ -1,0 +1,8 @@
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Pass_by_refrence_Square_Root_Exercise\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Utilizing_Pointers_Overview\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Utilizing_Void_Pointers\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Pass_By_Reference\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Calloc_Function_Example\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Pass_By_Value\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Malloc_Function_Example\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Pointer Basics\Pointer_Basic_Manipulations\main.c

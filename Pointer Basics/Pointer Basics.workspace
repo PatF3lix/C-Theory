@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Pointer Basics" Database="" Version="10000">
+  <Project Name="Pointer_Basic_Manipulations" Path="Pointer_Basic_Manipulations/Pointer_Basic_Manipulations.project" Active="No"/>
+  <Project Name="Utilizing_Pointers_Overview" Path="Utilizing_Pointers_Overview/Utilizing_Pointers_Overview.project" Active="No"/>
+  <Project Name="Malloc_Function_Example" Path="Malloc_Function_Example/Malloc_Function_Example.project" Active="No"/>
+  <Project Name="Calloc_Function_Example" Path="Calloc_Function_Example/Calloc_Function_Example.project" Active="Yes"/>
+  <Project Name="Utilizing_Void_Pointers" Path="Utilizing_Void_Pointers/Utilizing_Void_Pointers.project" Active="No"/>
+  <Project Name="Pass_By_Value" Path="Pass_By_Value/Pass_By_Value.project" Active="No"/>
+  <Project Name="Pass_By_Reference" Path="Pass_By_Reference/Pass_By_Reference.project" Active="No"/>
+  <Project Name="Pass_by_refrence_Square_Root_Exercise" Path="Pass_by_refrence_Square_Root_Exercise/Pass_by_refrence_Square_Root_Exercise.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Pointer_Basic_Manipulations" ConfigName="Debug"/>
+      <Project Name="Utilizing_Pointers_Overview" ConfigName="Debug"/>
+      <Project Name="Malloc_Function_Example" ConfigName="Debug"/>
+      <Project Name="Calloc_Function_Example" ConfigName="Debug"/>
+      <Project Name="Utilizing_Void_Pointers" ConfigName="Debug"/>
+      <Project Name="Pass_By_Value" ConfigName="Debug"/>
+      <Project Name="Pass_By_Reference" ConfigName="Debug"/>
+      <Project Name="Pass_by_refrence_Square_Root_Exercise" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Pointer_Basic_Manipulations" ConfigName="Release"/>
+      <Project Name="Utilizing_Pointers_Overview" ConfigName="Release"/>
+      <Project Name="Malloc_Function_Example" ConfigName="Release"/>
+      <Project Name="Calloc_Function_Example" ConfigName="Release"/>
+      <Project Name="Utilizing_Void_Pointers" ConfigName="Release"/>
+      <Project Name="Pass_By_Value" ConfigName="Release"/>
+      <Project Name="Pass_By_Reference" ConfigName="Release"/>
+      <Project Name="Pass_by_refrence_Square_Root_Exercise" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,4 @@
+C:\Users\pat_p\Desktop\WorkspacesC\Section 8 Arrays\Array_Exercise_Prime_Numbers\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 8 Arrays\Initializing_Arrays\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 8 Arrays\Multidimensional_Exercise\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 8 Arrays\Using_Arrays\main.c

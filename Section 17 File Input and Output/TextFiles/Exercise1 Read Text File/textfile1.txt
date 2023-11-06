@@ -1,0 +1,3 @@
+This is being read from "TextFiles/Exercise1 Read Text File/textfile1.txt"
+Make sure that the / separates every repository else it won't find the file
+in codelite!

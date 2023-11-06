@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689668333 source:c:\users\pat_p\desktop\workspacesc\section 34 useful c libraries\date_and_time_functions_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

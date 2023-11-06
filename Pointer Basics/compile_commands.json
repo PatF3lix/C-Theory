@@ -1,0 +1,33 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_by_refrence_Square_Root_Exercise\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_by_refrence_Square_Root_Exercise",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_by_refrence_Square_Root_Exercise\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_by_refrence_Square_Root_Exercise\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Pointers_Overview\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Pointers_Overview",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Pointers_Overview\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Pointers_Overview\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Void_Pointers\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Void_Pointers",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Void_Pointers\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Utilizing_Void_Pointers\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Reference\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Reference",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Reference\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Reference\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Calloc_Function_Example\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Calloc_Function_Example",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Calloc_Function_Example\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Calloc_Function_Example\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Value\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Value",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Value\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pass_By_Value\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Malloc_Function_Example\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Malloc_Function_Example",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Malloc_Function_Example\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Malloc_Function_Example\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pointer_Basic_Manipulations\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pointer_Basic_Manipulations",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pointer_Basic_Manipulations\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Pointer Basics\\Pointer_Basic_Manipulations\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

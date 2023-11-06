@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section 6 Operators" Database="" Version="10000">
+  <Project Name="Basic_Operators" Path="Basic_Operators/Basic_Operators.project" Active="No"/>
+  <Project Name="Bitwise_operators" Path="Bitwise_operators/Bitwise_operators.project" Active="No"/>
+  <Project Name="SizeOf_Operator" Path="SizeOf_Operator/SizeOf_Operator.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Basic_Operators" ConfigName="Debug"/>
+      <Project Name="Bitwise_operators" ConfigName="Debug"/>
+      <Project Name="SizeOf_Operator" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Basic_Operators" ConfigName="Release"/>
+      <Project Name="Bitwise_operators" ConfigName="Release"/>
+      <Project Name="SizeOf_Operator" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

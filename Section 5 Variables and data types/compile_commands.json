@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Command_line_arguments\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Command_line_arguments",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Command_line_arguments\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Command_line_arguments\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Enums_Char\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Enums_Char",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Enums_Char\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Enums_Char\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Format_Specifiers\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Format_Specifiers",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Format_Specifiers\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Format_Specifiers\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Basic_Data_Types\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Basic_Data_Types",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Basic_Data_Types\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 5 Variables and data types\\Basic_Data_Types\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

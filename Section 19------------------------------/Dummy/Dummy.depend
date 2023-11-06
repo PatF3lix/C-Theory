@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1688227667 source:c:\users\pat_p\desktop\workspacesc\section 19------------------------------\dummy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"other.h"
+
+1688227371 c:\users\pat_p\desktop\workspacesc\section 19------------------------------\dummy\other.h
+
+1688227467 source:c:\users\pat_p\desktop\workspacesc\section 19------------------------------\dummy\other.c
+	"other.h"
+

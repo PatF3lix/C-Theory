@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Fget_function_Use_case\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Fget_function_Use_case",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Fget_function_Use_case\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Fget_function_Use_case\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Char_Buffer_Calloc\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Char_Buffer_Calloc",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Char_Buffer_Calloc\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Char_Buffer_Calloc\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Malloc_Realloc_Function_Use_example\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Malloc_Realloc_Function_Use_example",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Malloc_Realloc_Function_Use_example\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 15 Dynamic Memory Allocation\\Malloc_Realloc_Function_Use_example\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

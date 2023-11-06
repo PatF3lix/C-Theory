@@ -1,0 +1,4 @@
+C:\Users\pat_p\Desktop\WorkspacesC\Section 15 Dynamic Memory Allocation\file.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 15 Dynamic Memory Allocation\Fget_function_Use_case\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 15 Dynamic Memory Allocation\Char_Buffer_Calloc\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 15 Dynamic Memory Allocation\Malloc_Realloc_Function_Use_example\main.c

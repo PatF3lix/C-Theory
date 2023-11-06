@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689506583 source:c:\users\pat_p\desktop\workspacesc\section 32 advanced pointers\function_pointer_challenge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689782951 source:c:\users\pat_p\desktop\workspacesc\section 36 interprocess communication and signals\handling_signals_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<signal.h>
+	<time.h>
+

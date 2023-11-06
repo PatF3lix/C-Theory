@@ -1,0 +1,1 @@
+../build-Debug/Copy_String_Pointer_Exercise_3/main.c.o: main.c

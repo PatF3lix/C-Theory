@@ -1,0 +1,21 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\Loops_Exercise\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\Loops_Exercise",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\Loops_Exercise\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\Loops_Exercise\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\ForLoop\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\ForLoop",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\ForLoop\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\ForLoop\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\SwitchCase_Statement\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\SwitchCase_Statement",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\SwitchCase_Statement\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\SwitchCase_Statement\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Else_Exercise\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Else_Exercise",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Else_Exercise\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Else_Exercise\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Statements\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Statements",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Statements\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 7 Control Flow\\If_Statements\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

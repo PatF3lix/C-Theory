@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Structure_Holding_Pointer_Members\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Structure_Holding_Pointer_Members",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Structure_Holding_Pointer_Members\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Structure_Holding_Pointer_Members\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_Item_Exercise\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_Item_Exercise",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_Item_Exercise\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_Item_Exercise\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_To_struct_Use_Case_Example\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_To_struct_Use_Case_Example",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_To_struct_Use_Case_Example\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Pointer_To_struct_Use_Case_Example\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Declaring_A_Structure\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Declaring_A_Structure",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Declaring_A_Structure\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 16 Structures\\Declaring_A_Structure\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

@@ -1,0 +1,1 @@
+../build-Debug/Pointer_To_struct_Use_Case_Example/main.c.o

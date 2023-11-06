@@ -1,0 +1,45 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_11_Fsetpos_Fgetpos\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_11_Fsetpos_Fgetpos",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_11_Fsetpos_Fgetpos\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_11_Fsetpos_Fgetpos\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_9_fgetpos\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_9_fgetpos",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_9_fgetpos\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_9_fgetpos\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_8_Ftell_Find_Length_In_Bytes_Of_File\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_8_Ftell_Find_Length_In_Bytes_Of_File",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_8_Ftell_Find_Length_In_Bytes_Of_File\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_8_Ftell_Find_Length_In_Bytes_Of_File\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_7_UpperCase_To_LowerCase_Read_Write\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_7_UpperCase_To_LowerCase_Read_Write",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_7_UpperCase_To_LowerCase_Read_Write\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_7_UpperCase_To_LowerCase_Read_Write\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_4_Write_ASCII_Values_between_33_And_100\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_4_Write_ASCII_Values_between_33_And_100",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_4_Write_ASCII_Values_between_33_And_100\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_4_Write_ASCII_Values_between_33_And_100\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_10_Fseek\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_10_Fseek",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_10_Fseek\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_10_Fseek\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_6_Writting_Formatted_Output\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_6_Writting_Formatted_Output",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_6_Writting_Formatted_Output\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_6_Writting_Formatted_Output\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_5_Writting_Strings_To_Text_File\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_5_Writting_Strings_To_Text_File",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_5_Writting_Strings_To_Text_File\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_5_Writting_Strings_To_Text_File\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_3_Read_And_write_From_Text_File\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_3_Read_And_write_From_Text_File",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_3_Read_And_write_From_Text_File\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_3_Read_And_write_From_Text_File\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_2_Reading_Strings_from_text_file\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_2_Reading_Strings_from_text_file",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_2_Reading_Strings_from_text_file\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_2_Reading_Strings_from_text_file\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_1_Read_Text_file\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_1_Read_Text_file",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_1_Read_Text_file\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 17 File Input and Output\\Exercise_1_Read_Text_file\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

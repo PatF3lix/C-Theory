@@ -1,0 +1,13 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\SizeOf_Operator\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\SizeOf_Operator",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\SizeOf_Operator\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\SizeOf_Operator\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Bitwise_operators\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Bitwise_operators",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Bitwise_operators\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Bitwise_operators\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Basic_Operators\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Basic_Operators",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Basic_Operators\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\Programing C\\WorkspacesC\\Section 6 Operators\\Basic_Operators\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

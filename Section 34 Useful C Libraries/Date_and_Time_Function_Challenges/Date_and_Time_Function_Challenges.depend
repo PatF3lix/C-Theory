@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689670641 source:c:\users\pat_p\desktop\workspacesc\section 34 useful c libraries\date_and_time_function_challenges\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

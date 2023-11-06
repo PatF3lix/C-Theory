@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\DebuggerTest\\DebuggerTest\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\DebuggerTest\\DebuggerTest",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\pat_p\\Desktop\\WorkspacesC\\DebuggerTest\\DebuggerTest\\main.c -o C:\\Users\\pat_p\\Desktop\\WorkspacesC\\DebuggerTest\\DebuggerTest\\main.c.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

@@ -1,0 +1,5 @@
+C:\Users\pat_p\Desktop\WorkspacesC\Section 14 Pointer Arithmetics\Counting_Characters_In_String_Pointers_Exercise_4\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 14 Pointer Arithmetics\Copy_String_Pointer_Exercise_3\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 14 Pointer Arithmetics\Pointers_And_Array_Example_2\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 14 Pointer Arithmetics\Pointers_And_Array_Example_1\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 14 Pointer Arithmetics\Pointer_Arithmetics_Sum_All_Elements_Array\main.c

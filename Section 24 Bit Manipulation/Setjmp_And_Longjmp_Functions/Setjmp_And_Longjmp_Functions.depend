@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1688728215 source:c:\users\pat_p\desktop\workspacesc\section 24 bit manipulation\setjmp_and_longjmp_functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<setjmp.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1689536922 source:c:\users\pat_p\desktop\workspacesc\section 33 static libraries and shared objects\mydynamiclibrary\main.c
+	<stdio.h>
+	"myDLib.h"
+
+1689536498 c:\users\pat_p\desktop\workspacesc\section 33 static libraries and shared objects\mydynamiclibrary\mydlib.h
+

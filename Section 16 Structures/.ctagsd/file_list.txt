@@ -1,0 +1,4 @@
+C:\Users\pat_p\Desktop\WorkspacesC\Section 16 Structures\Structure_Holding_Pointer_Members\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 16 Structures\Pointer_Item_Exercise\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 16 Structures\Pointer_To_struct_Use_Case_Example\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 16 Structures\Declaring_A_Structure\main.c

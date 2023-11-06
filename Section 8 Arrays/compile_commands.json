@@ -1,0 +1,17 @@
+[{
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Array_Exercise_Prime_Numbers\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Array_Exercise_Prime_Numbers",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Array_Exercise_Prime_Numbers\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Array_Exercise_Prime_Numbers\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Initializing_Arrays\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Initializing_Arrays",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Initializing_Arrays\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Initializing_Arrays\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Multidimensional_Exercise\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Multidimensional_Exercise",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Multidimensional_Exercise\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Multidimensional_Exercise\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Using_Arrays\\main.c",
+  "directory": "C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Using_Arrays",
+  "command": "C:/cygwin64/bin/gcc.exe -c \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Using_Arrays\\main.c\" -o \"C:\\Users\\pat_p\\Desktop\\WorkspacesC\\Section 8 Arrays\\Using_Arrays\\main.c\".o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

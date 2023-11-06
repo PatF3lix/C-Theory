@@ -1,0 +1,1 @@
+../build-Debug/Exercise_1_Read_Text_file/main.c.o: main.c

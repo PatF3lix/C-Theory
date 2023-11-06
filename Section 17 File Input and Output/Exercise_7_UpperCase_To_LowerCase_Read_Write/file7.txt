@@ -1,0 +1,4 @@
+PATRICK is testing
+isupper function 
+to RENDER all UPPERCASE CHARACTERS
+into lowercase characters!

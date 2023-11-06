@@ -1,0 +1,22 @@
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_11_Fsetpos_Fgetpos\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_11_Fsetpos_Fgetpos\file11.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_9_fgetpos\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_9_fgetpos\file9.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_8_Ftell_Find_Length_In_Bytes_Of_File\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_8_Ftell_Find_Length_In_Bytes_Of_File\file8.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_7_UpperCase_To_LowerCase_Read_Write\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_7_UpperCase_To_LowerCase_Read_Write\file7.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_4_Write_ASCII_Values_between_33_And_100\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_4_Write_ASCII_Values_between_33_And_100\file4.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_10_Fseek\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_10_Fseek\file10.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_6_Writting_Formatted_Output\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_6_Writting_Formatted_Output\file6.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_5_Writting_Strings_To_Text_File\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_5_Writting_Strings_To_Text_File\file5.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_3_Read_And_write_From_Text_File\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_2_Reading_Strings_from_text_file\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_2_Reading_Strings_from_text_file\file3.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_1_Read_Text_file\main.c
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\TextFiles\Exercise1 Read Text File\textfile1.txt
+C:\Users\pat_p\Desktop\WorkspacesC\Section 17 File Input and Output\Exercise_1_Read_Text_file\test2.txt
