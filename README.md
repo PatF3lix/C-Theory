@@ -37,4 +37,4 @@ Author:
 source:https://www.udemy.com/course/c-programming-for-beginners-/
 source:https://www.udemy.com/course/advanced-c-programming-course/
 author: Jason fedin
-author: Tim Bulchalka's Learb Programming Academy
+author: Tim Bulchalka's Learn Programming Academy
