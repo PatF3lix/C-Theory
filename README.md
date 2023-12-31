@@ -33,8 +33,8 @@ Topics:
 	25-Threads
 	26-Networking
 
-Author:
+Reference:
 source:https://www.udemy.com/course/c-programming-for-beginners-/
 source:https://www.udemy.com/course/advanced-c-programming-course/
-author: Jason fedin
-author: Tim Bulchalka's Learn Programming Academy
+Jason fedin
+Tim Bulchalka's Learn Programming Academy
